@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Pago
+from .models import Service
 
 # Register your models here.
-admin.register(Pago)
+admin.register(Service)
